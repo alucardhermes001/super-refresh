@@ -1,6 +1,7 @@
 {
-  "active_config_server_url": "http://78.47.220.1:5000",
+  "active_config_server_url": "http://78.47.220.1:0",
   "min_required_version": "1.4.0",
   "in_app_message": "اطلاعیه مهم: در صورت بروز اختلال، لطفاً از قابلیت رفرش مجدد کانفیگ استفاده کنید. سرور آپدیت به آدرس مقاوم منتقل شد."
 
 }
+
